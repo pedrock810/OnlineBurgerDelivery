@@ -30,20 +30,20 @@ Bem-vindo ao projeto de Hamburgueria Online! Este é um sistema completo de e-co
 
 👉 Extrair e copiar a pasta OnlineBurgerDelivery
 
-![image](https://github.com/user-attachments/assets/34722813-525b-41df-b7f2-effa4f8321fb)
+![image](https://github.com/user-attachments/assets/19c00f90-f48f-4b7b-9b95-faabe07f6f14)
 
 👉 Abrir o PHPMyAdmin (http://localhost/phpmyadmin)
 Criar uma base de dados com o nome de: OPD
 
-![image](https://github.com/user-attachments/assets/732a0a3d-1582-4fd1-9dd4-bb54491494a2)
+![image](https://github.com/user-attachments/assets/f9b5e519-f778-4aaa-b4f2-158f255518b6)
 
 Importar opd.sql para esta base de dados
 
-![image](https://github.com/user-attachments/assets/6f230caa-fd93-463b-9151-a674fddd80ca)
+![image](https://github.com/user-attachments/assets/921a4447-c55a-45ad-9885-58497bcfb193)
 
 Após a importação, deve ficar desta forma:
 
-![image](https://github.com/user-attachments/assets/a82354d6-e668-4965-8c0f-a1915133b445)
+![image](https://github.com/user-attachments/assets/06e2ad26-babc-4995-85b7-cd74c7b17b07)
 
 👉 Execute o script
 
@@ -78,18 +78,25 @@ Welcome to the Burger World project! This is a complete e-commerce system for a 
 
 👉 Extract the file and copy OnlinePizzaDelivery folder
 
-![image](https://github.com/user-attachments/assets/34722813-525b-41df-b7f2-effa4f8321fb)
+![image](https://github.com/user-attachments/assets/09713348-4f41-42c9-ac0c-6d0ce1d00c85)
+
 
 👉 Open PHPMyAdmin (http://localhost/phpmyadmin)
 
 Create a database with name: OPD
 
-![image](https://github.com/user-attachments/assets/732a0a3d-1582-4fd1-9dd4-bb54491494a2)
+![image](https://github.com/user-attachments/assets/f9b5e519-f778-4aaa-b4f2-158f255518b6)
 
 Import opd.sql file for this database
 
-![image](https://github.com/user-attachments/assets/6f230caa-fd93-463b-9151-a674fddd80ca)
+![image](https://github.com/user-attachments/assets/921a4447-c55a-45ad-9885-58497bcfb193)
 
 After importing, it should look like this:
 
-![image](https://github.com/user-attachments/assets/a82354d6-e668-4965-8c0f-a1915133b445)
+![image](https://github.com/user-attachments/assets/06e2ad26-babc-4995-85b7-cd74c7b17b07)
+
+👉 **Run the Script**
+
+   - **User Panel**: http://localhost/OnlinePizzaDelivery/
+   - **Admin Panel**: http://localhost/OnlinePizzaDelivery/admin/
+(Admin credentials - username: admin; password: admin)
